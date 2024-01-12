@@ -1,0 +1,6 @@
+@inproceedings{REPO092,
+    author = "Huai, Zheang and Ding, Xinpeng and Li, Yi and Li, Xiaomeng",
+    pages = "618¨C628",
+    title = "{Context-Aware Pseudo-Label Refinement for\&nbsp;Source-Free Domain Adaptive Fundus Image Segmentation}",
+    year = "2023"
+}
